@@ -1,20 +1,20 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
+  "readmeUrl": "https://github.com/Alekla0126/termportfolio/blob/main/README.md",
   "title": "Alekla's Portfolio",
   "name": "Alekla's Portfolio",
   "ascii": "Alekla",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "https://github.com/Alekla0126",
+    "linkedin": "https://www.linkedin.com/in/alejandro-lagunes-463ab41bb?originalSubdomain=mx"
   },
-  "email": "contact@email.com",
+  "email": "alekla0126@gmail.com",
   "ps1_hostname": "alekla",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "repo": "https://github.com/Alekla0126/termportfolio",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjDgebDrruAAxXECRAIHQAaCW0QFnoECBEQAQ&url=https%3A%2F%2Fmx.linkedin.com%2Fin%2Falejandro-lagunes-463ab41bb&usg=AOvVaw3gMjHlZUBgeGda62hP_Adw&opi=89978449",
+    "patreon": ""
   },
   "colors": {
     "light": {
